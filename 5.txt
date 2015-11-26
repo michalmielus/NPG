@@ -2,7 +2,7 @@
 main()
 {
  int a,b,c,d,x;
- a=5;
+ a=4;
  b=6;
  c=10;
  d=7;
