@@ -2,7 +2,7 @@
 main()
 {
  double a,b,c,x;
- a=2;
+ a=22;
  b=3;
  c=4;
  x=a*b/c;
